@@ -4,13 +4,7 @@ This project demonstrates a doorbell circuit built using a monostable multivibra
 
 ---
 
-## 📷 Circuit Diagram
 
-![Doorbell Circuit](images/doorbell_circuit.jpg)
-
-> _Circuit designed and simulated using LTspice. Uses a monostable configuration to produce a time-bound output._
-
----
 
 ## 🎯 Project Objective
 
