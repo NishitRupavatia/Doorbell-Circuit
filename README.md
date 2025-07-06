@@ -83,9 +83,10 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
-## 👨‍🔧 Author
+## 👨‍🔧 Authors
 
 **Nishit Rupavatia**
+**Siddhant Mohanty**
 
 ---
 
