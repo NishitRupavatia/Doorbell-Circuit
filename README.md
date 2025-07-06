@@ -1,4 +1,4 @@
-# 🛎️ Monostable Multivibrator-Based Doorbell Circuit
+#  Monostable Multivibrator-Based Doorbell Circuit
 
 This project demonstrates a doorbell circuit built using a monostable multivibrator. Designed with an op-amp, resistors, capacitors, and clamping diodes, the circuit generates a fixed-duration output pulse when a push button is pressed — simulating a real-world doorbell using an LED.
 
@@ -6,7 +6,7 @@ This project demonstrates a doorbell circuit built using a monostable multivibra
 
 
 
-## 🎯 Project Objective
+##  Project Objective
 
 - Simulate a doorbell using analog hardware  
 - Trigger a **single, time-controlled pulse** on button press  
@@ -15,7 +15,7 @@ This project demonstrates a doorbell circuit built using a monostable multivibra
 
 ---
 
-## 🔧 Components Used
+##  Components Used
 
 - **Op-Amp** – LM741  
 - **Resistors** – 10kΩ, 50kΩ  
@@ -28,9 +28,9 @@ This project demonstrates a doorbell circuit built using a monostable multivibra
 
 ---
 
-## 🧠 Theory & Key Calculations
+##  Theory & Key Calculations
 
-### ⏲️ Time Constant (Pulse Width)
+### Time Constant (Pulse Width)
 
 The pulse width is determined by the RC time constant:
 T = R4 × C1
@@ -42,7 +42,7 @@ So, the output (e.g., LED) stays ON for approximately **5 seconds**.
 
 ---
 
-### 🎚️ Voltage Divider Threshold (β Factor)
+###  Voltage Divider Threshold (β Factor)
 
 Defines the switching point of the op-amp comparator:
 
@@ -56,7 +56,7 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
-### 🔋 Zener Diode Clamping
+### Zener Diode Clamping
 
 - Two **5.6V Zener diodes** clamp the op-amp output  
 - Limits voltage swing to **±5.6V**  
@@ -65,7 +65,7 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
-## 🔬 How It Works
+## How It Works
 
 1. Pressing the button triggers the capacitor to discharge, changing the op-amp state.  
 2. The output goes high and remains so for the RC-defined duration.  
@@ -74,7 +74,7 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
-## 🚀 Key Takeaways
+## Key Takeaways
 
 - Monostable multivibrators are ideal for one-shot timing applications  
 - Analog components can replicate digital timing behavior  
@@ -83,10 +83,10 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
-## 👨‍🔧 Authors
+## Authors
 
 **Nishit Rupavatia**
-**Siddhant Mohanty**
+
 
 ---
 
