@@ -74,6 +74,13 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
+## 📷 Circuit Diagram
+
+
+![Circuit Diagram](images/doorbell_circuit.png)
+
+---
+
 ## Key Takeaways
 
 - Monostable multivibrators are ideal for one-shot timing applications  
