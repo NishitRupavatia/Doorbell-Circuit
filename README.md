@@ -74,11 +74,11 @@ This results in the non-inverting input toggling between ±0.5 × Vsat.
 
 ---
 
-## 📷 Circuit Diagram
+## Circuit Diagram
 
 The following is the monostable multivibrator-based doorbell circuit used in this project:
 
-![Circuit Diagram]()
+![Circuit Diagram](Images/Circuit_Image.png)
 
 ---
 
